@@ -1,0 +1,18 @@
+[33mcommit b1a729656dbbbc48e5643e640025db70b2aa3c0a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Icekid35 <belloicekid@gmail.com>
+Date:   Sun Mar 6 13:28:29 2022 +0100
+
+    added theme
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex ff309a3..f230b87 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -3,6 +3,7 @@[m
+ [m
+ <head>[m
+     <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="theme-color" content="springgreen" />[m
+     <meta name="viewport" content="width=device-width, initial-scale=1">[m
+     <title>advice generator</title>[m
+     <link rel="stylesheet" href="styles.css" type="text/css" media="all" />[m
