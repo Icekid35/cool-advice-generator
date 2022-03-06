@@ -40,11 +40,11 @@ text-transform:capitalize;
 
   transform-style: preserve-3d;
   aspect-ratio:1;
-  border-radius: 10px;
+  border-radius: 18px;
   width: 86%;
-  max-width: 415px;
+  max-width: 615px;
   height: 60%;
-  max-height: 305px;;
+  max-height: 455px;;
   background: hsl(217, 19%, 24%);
   color: hsl(193, 38%, 86%);
   display: flex;
