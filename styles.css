@@ -33,7 +33,7 @@ main{
   justify-self: flex-end;
   position: absolute;
   right:0px;
-boder-radius:5px;
+border-radius:5px;
 }
 .container{
   position: relative;
@@ -45,7 +45,7 @@ text-transform:capitalize;
   width: 86%;
   max-width: 615px;
   height: 60%;
-  max-height: 455px;;
+  max-height: 455px;
   background: hsl(217, 19%, 24%);
   color: hsl(193, 38%, 86%);
   display: flex;
