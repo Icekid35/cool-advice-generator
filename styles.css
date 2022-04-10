@@ -33,6 +33,7 @@ main{
   justify-self: flex-end;
   position: absolute;
   right:0px;
+boder-radius:5px;
 }
 .container{
   position: relative;
@@ -67,6 +68,7 @@ text-transform:capitalize;
   align-items: center;
   width: 100%;
   margin-right: 4px;
+font-size:1rem;
 }
 
 .body{
@@ -107,7 +109,7 @@ text-transform:capitalize;
   display: flex;
   transform: translateY(50%);
   margin-top:5px;
-  padding:8px;
+  padding:10px;
 }
 
 .btn:hover{
